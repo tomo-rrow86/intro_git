@@ -2,3 +2,5 @@ Gitno練習をしていきます
 基本的なGitのワークフローを学びます
 ・git add
 ・git commit
+
+もう一度
