@@ -5,3 +5,5 @@ Gitno練習をしていきます
 ・git rm
 ・Git status
 ・git diff
+
+ 確認コメント
