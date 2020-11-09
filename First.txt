@@ -1,4 +1,4 @@
-Gitno練習をしていきます
+Gitの練習をしていきます
 基本的なGitのワークフローを学びます
 ・git add
 ・git commit
@@ -7,3 +7,5 @@ Gitno練習をしていきます
 ・git diff
 
  確認コメント
+
+ git checkout
