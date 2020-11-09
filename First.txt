@@ -11,3 +11,5 @@ Gitの練習をしていきます
  test
 
  追加 --amend
+
+branch feature
